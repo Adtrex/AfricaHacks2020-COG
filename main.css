@@ -1,0 +1,59 @@
+.navbar{
+	background-color: #fff;
+    box-shadow: 0 0 3px 0 rgba(0,0,0,.1);
+	color: black;
+
+} 
+header{ position: fixed;
+  width: 100%;
+  z-index: 3;
+}
+.nav-item a{
+	color: #111637;
+}
+.nav-item{
+	padding-left: 15px;
+	padding-right: 15px;
+
+}
+.nav-sign-up a{
+	color: #fff !important;
+    box-shadow: 0 3px 6px 0 rgba(45,122,241,.3);
+    border-radius: 1em;
+    background-color: #2d7af1;
+    padding-left: 20px;
+	padding-top:13px;
+	padding-bottom:13px;
+	color: #fff;
+	font-size: 16px;
+	width: 100px;
+	text-align: center;
+}
+.hero-page{
+    margin-top: 0px;
+    padding-top: 0px;
+    height: 600px;
+    background: #fff;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color:#fff;
+    color: #111637;
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    padding-top: 150px;
+}
+
+
+.search input{
+	height: 45px;
+	box-shadow: 0 0 3px 0 rgba(0,0,0,.3);
+	border: 1px solid grey;
+	border-radius: 2px;
+}
+.search button{
+	height: 45px;
+	box-shadow: 0 0 3px 0 rgba(0,0,0,.3);
+	border-radius: 5px;
+	border: 2px;
+}
